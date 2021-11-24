@@ -7,9 +7,10 @@
     <packaging>jar</packaging>
     <name>mapping</name>
     <description>this project use functionnal interface</description>
-    
-    
     <url>https://github.com/Andriamarosoa/level</url>
+	
+	
+	
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -23,7 +24,7 @@
     <developers>
         <developer>
             <name>Tinah Andriamarosoa</name>
-            <email>Tinah.andriamamrosoa@com</email>
+            <email>Tinah.andriamamrosoa@gmail.com</email>
         </developer>
     </developers>
     <dependencies>
