@@ -1,0 +1,5 @@
+io\github\andriamarosoa\dao\Source.class
+io\github\andriamarosoa\dao\Database.class
+io\github\andriamarosoa\dao\annotation\Table.class
+io\github\andriamarosoa\dao\DaoApplication.class
+io\github\andriamarosoa\dao\Column.class
