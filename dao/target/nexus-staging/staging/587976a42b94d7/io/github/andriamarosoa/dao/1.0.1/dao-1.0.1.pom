@@ -6,7 +6,7 @@
     <name>dao</name>
     <description>database acces object</description>
     <url>https://github.com/Andriamarosoa/level</url>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -14,6 +14,12 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
     <dependencies>
+		<dependency>
+			<groupId>com.microsoft.sqlserver</groupId>
+			<artifactId>mssql-jdbc</artifactId>
+			<version>9.2.1.jre8</version>
+			<scope>runtime</scope>
+		</dependency>
         <dependency>
             <groupId>io.github.andriamarosoa</groupId>
             <artifactId>mapping</artifactId>
